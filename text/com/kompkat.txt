@@ -156,7 +156,7 @@
 "06C15";"";"Complicated diaphragmatic hernia";T;1996/12/31;T;"Komplisoitunut palleatyrä"
 "06C16";"";"Malabosrtion";T;1996/12/31;T;"Leikkauksen jälkeinen suoliston imeytymishäiriö"
 "06C17";"";"Peritonitis";T;1996/12/31;T;"Peritoniitti"
-"06C18";"";"Complicated injury of intra abdominal organs";T;2013/10/17;T;"Vatsaontelon elinten komplisoitunut vamma"
+"06C18";"";"Complicated injury of intra abdominal orgnans- major CC";T;2013/06/11;T;"Vatsaontelon elinten komplisoitunut vamma"
 "06I18";"06X04";"Complicated injury of intra abdominal orgnans";T;1996/12/31;T;"Vatsaontelon elinten komplisoitunut vamma"
 "06C19";"";"Complicated femoral or inguinal hernia";T;1996/12/31;T;"Komplisoitunut reisi- tai nivustyrä"
 "06C20";"";"Complicated other abdominal hernia";T;1996/12/31;T;"Komplisoitunut muu vatsan alueen tyrä"
