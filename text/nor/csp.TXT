@@ -1,4 +1,4 @@
-"0XX00";"Deleted 2011/12/31-Behandling med annet biologisk legemiddel";"WZZ999";F;2009/01/01
+"0XX00";"Deleted 2011/12/31-Behandling med annet biologisk legemiddel";"_0XX00";F;2009/01/01
 "0XX01";"Deleted 2011/12/31-Åpen kode 1";"WZZ999";F;2010/01/01
 "0XX02";"Deleted 2011/12/31-Åpen kode 2";"WZZ999";F;2010/01/01
 "0XX03";"Deleted 2011/12/31-Åpen kode 3";"WZZ999";F;2010/01/01
@@ -9,19 +9,18 @@
 "0XX08";"Deleted 2011/12/31-Åpen kode 8";"WZZ999";F;2010/01/01
 "0XX09";"Deleted 2011/12/31-Åpen kode 9";"WZZ999";F;2010/01/01
 "0XX10";"Deleted 2011/12/31-Åpen kode 10";"WZZ999";F;2010/01/01
-"1BA01";"Behandling med legemiddel S01BA01 (Deksametason)";"ZXXX99";F;2013/01/01
-"1L A05";"Deleted 2013/12/31-Behandling med legemiddel S01LA05 (Aflibercept)";"ZXXX99";F;2014/01/01
-"1LA01";"Behandling med legemiddel S01LA01 (Verteporfin)";"ZXXC80";F;2010/01/01
-"1LA04";"Behandling med legemiddel S01LA04 (Ranibizumab)";"WCO131";F;2010/01/01
-"1LA05";"Behandling med legemiddel S01LA05 (Aflibercept)";"";F;2014/01/01
-"1XA22";"Behandling med legemiddel S01XA22 (Okriplasmin)";"ZXXX07";F;2014/01/01
-"1XC02";"Behandling med legemiddel L01XC02 (Rituximab)";"WCO131";F;2009/01/01
-"1XC03";"Behandling med legemiddel L01XC03 (Trastuzumab)";"WCO131";F;2010/01/01
-"1XC04";"Behandling med legemiddel L01XC04 (Alemtuzumab)";"WCO131";F;2014/01/01
-"1XC07";"Behandling med legemiddel L01XC07 (Bevacizumab)";"WCO131";F;2010/01/01
-"1XX00";"Deleted 2011/12/31-Behandling med annet biologisk legemiddel";"WZZ999";F;2011/01/01
+"1BA01";"Behandling med legemiddel S01BA01 (Deksametason)";"_1BA01";F;2013/01/01
+"1LA01";"Behandling med legemiddel S01LA01 (Verteporfin)";"_1LA01";F;2010/01/01
+"1LA04";"Behandling med legemiddel S01LA04 (Ranibizumab)";"_1LA04";F;2010/01/01
+"1LA05";"Behandling med legemiddel S01LA05 (Aflibercept)";"_1LA05";F;2014/01/01
+"1XA22";"Behandling med legemiddel S01XA22 (Okriplasmin)";"_1XA22";F;2014/01/01
+"1XC02";"Behandling med legemiddel L01XC02 (Rituximab)";"_1XC02";F;2009/01/01
+"1XC03";"Behandling med legemiddel L01XC03 (Trastuzumab)";"_1XC03";F;2010/01/01
+"1XC04";"Behandling med legemiddel L01XC04 (Alemtuzumab)";"_1XC04";F;2014/01/01
+"1XC07";"Behandling med legemiddel L01XC07 (Bevacizumab)";"_1XC07";F;2010/01/01
+"1XX00";"Deleted 2011/12/31-Behandling med annet biologisk legemiddel";"_1XX00";F;2011/01/01
 "1XX01";"Intravenøs trombolysebehandling ved akutt hjerneinfarkt";"WZZ999";F;2011/01/01
-"1XX02";"Behandling med studiemedikament i LUCAS-studien";"WZZ999";F;2011/01/01
+"1XX02";"Behandling med studiemedikament i LUCAS-studien";"_1XX02";F;2011/01/01
 "1XX03";"Deleted 2011/12/31-Åpen kode 3";"WZZ999";F;2011/01/01
 "1XX04";"Deleted 2011/12/31-Åpen kode 4";"WZZ999";F;2011/01/01
 "1XX05";"Deleted 2011/12/31-Åpen kode 5";"WZZ999";F;2011/01/01
@@ -50,10 +49,10 @@
 "2XX18";"Deleted 2012/12/31-Åpen kode 18";"WZZ998";F;2012/01/01
 "2XX19";"Deleted 2012/12/31-Åpen kode 19";"WZZ998";F;2012/01/01
 "2XX20";"Deleted 2012/12/31-Åpen kode 20";"WZZ998";F;2012/01/01
-"3AB07";"Behandling med legemiddel L03AB07 (Interferon beta-1a)";"WCO131";F;2009/01/01
-"3AB08";"Behandling med legemiddel L03AB08 (Interferon beta-1b)";"WCO131";F;2009/01/01
+"3AB07";"Behandling med legemiddel L03AB07 (Interferon beta-1a)";"_3AB07";F;2009/01/01
+"3AB08";"Behandling med legemiddel L03AB08 (Interferon beta-1b)";"_3AB08";F;2009/01/01
 "3AX01";"Behandling med legemiddel M03AX01 (Botulintoxin)";"AEX410";F;2010/01/01
-"3AX13";"Behandling med legemiddel L03AX13 (Glatirameracetat)";"WCO131";F;2009/01/01
+"3AX13";"Behandling med legemiddel L03AX13 (Glatirameracetat)";"_3AX13";F;2009/01/01
 "3BX01";"Behandling med legemiddel M03BX01 (Baclofen)ol";"AEX420";F;2009/01/01
 "3XX01";"Deleted 2013/12/31-Åpen kode 1";"XZXX90";F;2013/01/01
 "3XX02";"Deleted 2013/12/31-Åpen kode 2";"XZXX90";F;2013/01/01
@@ -77,21 +76,21 @@
 "3XX20";"Deleted 2013/12/31-Åpen kode 20";"XZXX90";F;2013/01/01
 "42KD";"Deleted 2010/12/31-Lærings- og mestringsaktivitet i grupper vedrørende aktuelle lidelse";"ZZZA10";F;2008/01/01
 "42KJ";"Deleted 2010/12/31-Lærings- og mestringsaktivitet for familien, pårørende eller pasientens øvrige sosiale nettverk vedrørende aktuelle tilstand";"ZZZA10";F;2009/01/01
-"4AA13";"Behandling med legemiddel L04AA13 (Teriflumoide)";"ZXXX00";F;2014/01/01
-"4AA21";"Deleted 2010/12/31-Behandling med legemiddel L04AA21 (Efalizumab)";"WCO131";F;2009/01/01
-"4AA23";"Behandling med legemiddel L04AA23 (Natalizumab)";"WCO131";F;2009/01/01
-"4AA24";"Behandling med legemiddel L04AA24 (Abatacept)";"WCO131";F;2009/01/01
-"4AA26";"Behandling med legemiddel L04AA26 (Belimumab)";"WCO401";F;2014/01/01
-"4AA27";"Behandling med legemiddel L04AA27 (Fingolimod)";"WCO131";F;2012/01/01
-"4AA29";"Behandling med legemiddel L04AA29 (Tofacitinib)";"WCO131";F;2013/01/01
-"4AB01";"Behandling med legemiddel L04AB01 (Etanercept)";"WCO131";F;2009/01/01
-"4AB02";"Behandling med legemiddel L04AB02 (Infliximab)";"WCO131";F;2009/01/01
-"4AB04";"Behandling med legemiddel L04AB04 (Adalimumab)";"WCO131";F;2009/01/01
-"4AB05";"Behandling med legemiddel L04AB05 (Certolizumab pegol)";"WCO131";F;2009/01/01
-"4AB06";"Behandling med legemiddel L04AB06 (Golimumab)";"WCO131";F;2011/01/01
-"4AC03";"Behandling med legemiddel L04AC03 (Anakinra)";"WCO131";F;2009/01/01
-"4AC05";"Behandling med legemiddel L04AC05 (Ustekinumab)";"WCO131";F;2010/01/01
-"4AC07";"Behandling med legemiddel L04AC07 (Tocilizumab)";"WCO131";F;2009/01/01
+"4AA13";"Behandling med legemiddel L04AA13 (Teriflumoide)";"_4AA13";F;2014/01/01
+"4AA21";"Deleted 2010/12/31-Behandling med legemiddel L04AA21 (Efalizumab)";"_4AA21";F;2009/01/01
+"4AA23";"Behandling med legemiddel L04AA23 (Natalizumab)";"_4AA23";F;2009/01/01
+"4AA24";"Behandling med legemiddel L04AA24 (Abatacept)";"_4AA24";F;2009/01/01
+"4AA26";"Behandling med legemiddel L04AA26 (Belimumab)";"_4AA26";F;2014/01/01
+"4AA27";"Behandling med legemiddel L04AA27 (Fingolimod)";"_4AA27";F;2012/01/01
+"4AA29";"Behandling med legemiddel L04AA29 (Tofacitinib)";"_4AA29";F;2013/01/01
+"4AB01";"Behandling med legemiddel L04AB01 (Etanercept)";"_4AB01";F;2009/01/01
+"4AB02";"Behandling med legemiddel L04AB02 (Infliximab)";"_4AB02";F;2009/01/01
+"4AB04";"Behandling med legemiddel L04AB04 (Adalimumab)";"_4AB04";F;2009/01/01
+"4AB05";"Behandling med legemiddel L04AB05 (Certolizumab pegol)";"_4AB05";F;2009/01/01
+"4AB06";"Behandling med legemiddel L04AB06 (Golimumab)";"_4AB06";F;2011/01/01
+"4AC03";"Behandling med legemiddel L04AC03 (Anakinra)";"_4AC03";F;2009/01/01
+"4AC05";"Behandling med legemiddel L04AC05 (Ustekinumab)";"_4AC05";F;2010/01/01
+"4AC07";"Behandling med legemiddel L04AC07 (Tocilizumab)";"_4AC07";F;2009/01/01
 "4XX01";"Åpen kode 1";"XZXX90";F;2014/01/01
 "4XX02";"Åpen kode 2";"XZXX90";F;2014/01/01
 "4XX03";"Åpen kode 3";"XZXX90";F;2014/01/01
@@ -112,10 +111,10 @@
 "4XX18";"Åpen kode 18";"XZXX90";F;2014/01/01
 "4XX19";"Åpen kode 19";"XZXX90";F;2014/01/01
 "4XX20";"Åpen kode 20";"XZXX90";F;2014/01/01
-"6BA02";"Behandling med legemiddel J06BA02 (humant normalt immunglobulin)";"ZXXX99";F;2014/01/01
-"7XX09";"Behandling med legemiddel N07XX09 (dimethyl fumarat)";"ZXXX00";F;2014/01/01
-"7XX10";"Behandling med legemiddel N07XX10 (laquinimod)";"ZXXX99";F;2014/01/01
-"9AB02";"Behandling med legemiddel M09AB02 (Kollagenase clostridium histolyticum)";"ZXXX99";F;2013/01/01
+"6BA02";"Behandling med legemiddel J06BA02 (humant normalt immunglobulin)";"_6BA02";F;2014/01/01
+"7XX09";"Behandling med legemiddel N07XX09 (dimethyl fumarat)";"_7XX09";F;2014/01/01
+"7XX10";"Behandling med legemiddel N07XX10 (laquinimod)";"_7XX10";F;2014/01/01
+"9AB02";"Behandling med legemiddel M09AB02 (Kollagenase clostridium histolyticum)";"_9AB02";F;2013/01/01
 "A0093";"Hjemmebasert peritonealdialyse";"KAXA22";F;2011/01/01
 "A0099";"Grupperettet pasientopplæring";"ZZZA10";F;2011/01/01
 "AAA00";"Eksplorativ kraniotomi";"AASA00";F;1999/01/01

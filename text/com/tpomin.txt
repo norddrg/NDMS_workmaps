@@ -101,7 +101,7 @@
 "03O07";"Demanding autiometry";F;"0";T;F;"";/  /;"";T
 "03O08";"Cochlear implant related interventions";F;"0";T;F;"";/  /;"";F
 "03O09";"Standard audiometry";F;"0";T;F;"";/  /;"";F
-"03O10";"Other tooth procedure";F;"0";T;F;"";2013/10/21;"";F
+"03O10";"Other tooth procedure";F;"0";T;F;"";/  /;"";F
 "03O11";"Complex diagnostic procedures for ENM problems";F;"0";T;F;"";2007/11/11;"";F
 "03O12";"Local diagnostic procedures for ENM problems";F;"0";T;F;"";/  /;"";F
 "03O13";"Major ENT procedures for children";F;"0";T;F;"";2013/10/14;"";T
@@ -767,7 +767,7 @@
 "90O01";"Acute intensive care";F;"0";T;F;"";/  /;"";F
 "90O02";"Allergy test";F;"0";T;F;"";2007/11/13;"";F
 "90O03";"Hypebar oxygen therapy";F;"0";T;F;"";/  /;"";F
-"90O10";"Specific biological drug treatment";F;"0";T;F;"";2009/07/06;"";T
+"90O10";"Specific biological drug treatment";F;"0";T;F;"";2009/07/06;"";F
 "90S01";"Parenteral administration";F;"0";T;F;"";/  /;"";F
 "90S02";"Intravenous administration";F;"0";T;F;"";/  /;"";F
 "90S03";"Intravesical administraiton";F;"0";T;F;"";/  /;"";F
