@@ -109,7 +109,11 @@ else
   USE ..\..\tabl_def\eng\komplex.DBF EXCLUSIVE alias komplex_oth
   set filter to valid
   set ORDER to compl
-endif
+ENDIF
+SELECT komplex 
+SET FILTER TO SUBSTR(compl,3,1)<>'C'
+replace ALL compl WITH SUBSTR(compl,1,2)+'C'+SUBSTR(compl,4,2)
+SET FILTER TO valid
 SELECT dg
 SEEK p_ldg
 SELECT icd_10

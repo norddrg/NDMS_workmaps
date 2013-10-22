@@ -24,7 +24,7 @@ procedure tpomsiir
 			LOOP
 		endif
 		SELECT tpomin
-		INSERT INTO (lc_siirto+'\tpomin.dbf') (procprop, text,extens) VALUES (tpomin.procprop, tpomin.english, tpomin.extens)
+		INSERT INTO (lc_siirto+'\tpomin.dbf') (procprop, text, extens, or_1) VALUES (tpomin.procprop, tpomin.english, tpomin.extens, tpomin.or_1)
 		SELECT tpomin
 		SKIP
 	ENDDO

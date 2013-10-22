@@ -30,6 +30,7 @@ procedure tpomsiir
 	ENDDO
 	SELECT apusiir
 	COPY to (lc_siirto+'\tpomin.xl2') TYPE XLS
+	COPY to (lc_siirto+'\tpomin.txt') DELIMITED WITH CHAR ';'
 	SELECT apusiir
 	USE
 	return

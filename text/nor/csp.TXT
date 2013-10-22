@@ -9,15 +9,19 @@
 "0XX08";"Deleted 2011/12/31-Åpen kode 8";"WZZ999";F;2010/01/01
 "0XX09";"Deleted 2011/12/31-Åpen kode 9";"WZZ999";F;2010/01/01
 "0XX10";"Deleted 2011/12/31-Åpen kode 10";"WZZ999";F;2010/01/01
-"1BA01";"Deleted 2013/12/31-Behandling med legemiddel S01BA01 (Deksametason)";"1BA01";F;2013/01/01
-"1LA01";"Deleted 2013/12/31-Behandling med legemiddel S01LA01 (Verteporfin)";"ZXXC80";F;2010/01/01
-"1LA04";"Deleted 2013/12/31-Behandling med legemiddel S01LA04 (Ranibizumab)";"WCO131";F;2010/01/01
-"1XC02";"Deleted 2013/12/31-Behandling med legemiddel L01XC02 (Rituximab)";"WCO131";F;2009/01/01
-"1XC03";"Deleted 2013/12/31-Behandling med legemiddel L01XC03 (Trastuzumab)";"WCO131";F;2010/01/01
-"1XC07";"Deleted 2013/12/31-Behandling med legemiddel L01XC07 (Bevacizumab)";"WCO131";F;2010/01/01
+"1BA01";"Behandling med legemiddel S01BA01 (Deksametason)";"ZXXX99";F;2013/01/01
+"1L A05";"Deleted 2013/12/31-Behandling med legemiddel S01LA05 (Aflibercept)";"ZXXX99";F;2014/01/01
+"1LA01";"Behandling med legemiddel S01LA01 (Verteporfin)";"ZXXC80";F;2010/01/01
+"1LA04";"Behandling med legemiddel S01LA04 (Ranibizumab)";"WCO131";F;2010/01/01
+"1LA05";"Behandling med legemiddel S01LA05 (Aflibercept)";"";F;2014/01/01
+"1XA22";"Behandling med legemiddel S01XA22 (Okriplasmin)";"ZXXX07";F;2014/01/01
+"1XC02";"Behandling med legemiddel L01XC02 (Rituximab)";"WCO131";F;2009/01/01
+"1XC03";"Behandling med legemiddel L01XC03 (Trastuzumab)";"WCO131";F;2010/01/01
+"1XC04";"Behandling med legemiddel L01XC04 (Alemtuzumab)";"WCO131";F;2014/01/01
+"1XC07";"Behandling med legemiddel L01XC07 (Bevacizumab)";"WCO131";F;2010/01/01
 "1XX00";"Deleted 2011/12/31-Behandling med annet biologisk legemiddel";"WZZ999";F;2011/01/01
-"1XX01";"Deleted 2013/12/31-Intravenøs trombolysebehandling ved akutt hjerneinfarkt";"WZZ999";F;2011/01/01
-"1XX02";"Deleted 2013/12/31-Behandling med studiemedikament i LUCAS-studien";"WZZ999";F;2011/01/01
+"1XX01";"Intravenøs trombolysebehandling ved akutt hjerneinfarkt";"WZZ999";F;2011/01/01
+"1XX02";"Behandling med studiemedikament i LUCAS-studien";"WZZ999";F;2011/01/01
 "1XX03";"Deleted 2011/12/31-Åpen kode 3";"WZZ999";F;2011/01/01
 "1XX04";"Deleted 2011/12/31-Åpen kode 4";"WZZ999";F;2011/01/01
 "1XX05";"Deleted 2011/12/31-Åpen kode 5";"WZZ999";F;2011/01/01
@@ -46,11 +50,11 @@
 "2XX18";"Deleted 2012/12/31-Åpen kode 18";"WZZ998";F;2012/01/01
 "2XX19";"Deleted 2012/12/31-Åpen kode 19";"WZZ998";F;2012/01/01
 "2XX20";"Deleted 2012/12/31-Åpen kode 20";"WZZ998";F;2012/01/01
-"3AB07";"Deleted 2013/12/31-Behandling med legemiddel L03AB07 (Interferon beta-1a)";"WCO131";F;2009/01/01
-"3AB08";"Deleted 2013/12/31-Behandling med legemiddel L03AB08 (Interferon beta-1b)";"WCO131";F;2009/01/01
-"3AX01";"Deleted 2013/12/31-Behandling med legemiddel M03AX01 (Botulintoxin)";"AEX410";F;2010/01/01
-"3AX13";"Deleted 2013/12/31-Behandling med legemiddel L03AX13 (Glatirameracetat)";"WCO131";F;2009/01/01
-"3BX01";"Deleted 2013/12/31-Behandling med legemiddel M03BX01 (Baclofen)ol";"AEX420";F;2009/01/01
+"3AB07";"Behandling med legemiddel L03AB07 (Interferon beta-1a)";"WCO131";F;2009/01/01
+"3AB08";"Behandling med legemiddel L03AB08 (Interferon beta-1b)";"WCO131";F;2009/01/01
+"3AX01";"Behandling med legemiddel M03AX01 (Botulintoxin)";"AEX410";F;2010/01/01
+"3AX13";"Behandling med legemiddel L03AX13 (Glatirameracetat)";"WCO131";F;2009/01/01
+"3BX01";"Behandling med legemiddel M03BX01 (Baclofen)ol";"AEX420";F;2009/01/01
 "3XX01";"Deleted 2013/12/31-Åpen kode 1";"XZXX90";F;2013/01/01
 "3XX02";"Deleted 2013/12/31-Åpen kode 2";"XZXX90";F;2013/01/01
 "3XX03";"Deleted 2013/12/31-Åpen kode 3";"XZXX90";F;2013/01/01
@@ -73,22 +77,47 @@
 "3XX20";"Deleted 2013/12/31-Åpen kode 20";"XZXX90";F;2013/01/01
 "42KD";"Deleted 2010/12/31-Lærings- og mestringsaktivitet i grupper vedrørende aktuelle lidelse";"ZZZA10";F;2008/01/01
 "42KJ";"Deleted 2010/12/31-Lærings- og mestringsaktivitet for familien, pårørende eller pasientens øvrige sosiale nettverk vedrørende aktuelle tilstand";"ZZZA10";F;2009/01/01
+"4AA13";"Behandling med legemiddel L04AA13 (Teriflumoide)";"ZXXX00";F;2014/01/01
 "4AA21";"Deleted 2010/12/31-Behandling med legemiddel L04AA21 (Efalizumab)";"WCO131";F;2009/01/01
-"4AA23";"Deleted 2013/12/31-Behandling med legemiddel L04AA23 (Natalizumab)";"WCO131";F;2009/01/01
-"4AA24";"Deleted 2013/12/31-Behandling med legemiddel L04AA24 (Abatacept)";"WCO131";F;2009/01/01
-"4AA27";"Deleted 2013/12/31-Behandling med legemiddel L04AA27 (Fingolimod)";"WCO131";F;2012/01/01
-"4AA29";"Deleted 2013/12/31-Behandling med legemiddel L04AA29 (Tofacitinib)";"WCO131";F;2013/01/01
-"4AB01";"Deleted 2013/12/31-Behandling med legemiddel L04AB01 (Etanercept)";"WCO131";F;2009/01/01
-"4AB02";"Deleted 2013/12/31-Behandling med legemiddel L04AB02 (Infliximab)";"WCO131";F;2009/01/01
-"4AB04";"Deleted 2013/12/31-Behandling med legemiddel L04AB04 (Adalimumab)";"WCO131";F;2009/01/01
-"4AB05";"Deleted 2013/12/31-Behandling med legemiddel L04AB05 (Certolizumab pegol)";"WCO131";F;2009/01/01
-"4AB06";"Deleted 2013/12/31-Behandling med legemiddel L04AB06 (Golimumab)";"WCO131";F;2011/01/01
-"4AC03";"Deleted 2013/12/31-Behandling med legemiddel L04AC03 (Anakinra)";"WCO131";F;2009/01/01
-"4AC05";"Deleted 2013/12/31-Behandling med legemiddel L04AC05 (Ustekinumab)";"WCO131";F;2010/01/01
-"4AC07";"Deleted 2013/12/31-Behandling med legemiddel L04AC07 (Tocilizumab)";"WCO131";F;2009/01/01
-"9AB02";"Deleted 2013/12/31-Behandling med legemiddel M09AB02 (M09AB02 Kollagenase clostridium histolyticum)";"M09AB";F;2013/01/01
-"A0093";"Deleted 2013/12/31-Hjemmebasert peritonealdialyse";"WZZ999";F;2011/01/01
-"A0099";"Deleted 2013/12/31-Grupperettet pasientopplæring";"WZZ999";F;2011/01/01
+"4AA23";"Behandling med legemiddel L04AA23 (Natalizumab)";"WCO131";F;2009/01/01
+"4AA24";"Behandling med legemiddel L04AA24 (Abatacept)";"WCO131";F;2009/01/01
+"4AA26";"Behandling med legemiddel L04AA26 (Belimumab)";"WCO401";F;2014/01/01
+"4AA27";"Behandling med legemiddel L04AA27 (Fingolimod)";"WCO131";F;2012/01/01
+"4AA29";"Behandling med legemiddel L04AA29 (Tofacitinib)";"WCO131";F;2013/01/01
+"4AB01";"Behandling med legemiddel L04AB01 (Etanercept)";"WCO131";F;2009/01/01
+"4AB02";"Behandling med legemiddel L04AB02 (Infliximab)";"WCO131";F;2009/01/01
+"4AB04";"Behandling med legemiddel L04AB04 (Adalimumab)";"WCO131";F;2009/01/01
+"4AB05";"Behandling med legemiddel L04AB05 (Certolizumab pegol)";"WCO131";F;2009/01/01
+"4AB06";"Behandling med legemiddel L04AB06 (Golimumab)";"WCO131";F;2011/01/01
+"4AC03";"Behandling med legemiddel L04AC03 (Anakinra)";"WCO131";F;2009/01/01
+"4AC05";"Behandling med legemiddel L04AC05 (Ustekinumab)";"WCO131";F;2010/01/01
+"4AC07";"Behandling med legemiddel L04AC07 (Tocilizumab)";"WCO131";F;2009/01/01
+"4XX01";"Åpen kode 1";"XZXX90";F;2014/01/01
+"4XX02";"Åpen kode 2";"XZXX90";F;2014/01/01
+"4XX03";"Åpen kode 3";"XZXX90";F;2014/01/01
+"4XX04";"Åpen kode 4";"XZXX90";F;2014/01/01
+"4XX05";"Åpen kode 5";"XZXX90";F;2014/01/01
+"4XX06";"Åpen kode 6";"XZXX90";F;2014/01/01
+"4XX07";"Åpen kode 7";"XZXX90";F;2014/01/01
+"4XX08";"Åpen kode 8";"XZXX90";F;2014/01/01
+"4XX09";"Åpen kode 9";"XZXX90";F;2014/01/01
+"4XX10";"Åpen kode 10";"XZXX90";F;2014/01/01
+"4XX11";"Åpen kode 11";"XZXX90";F;2014/01/01
+"4XX12";"Åpen kode 12";"XZXX90";F;2014/01/01
+"4XX13";"Åpen kode 13";"XZXX90";F;2014/01/01
+"4XX14";"Åpen kode 14";"XZXX90";F;2014/01/01
+"4XX15";"Åpen kode 15";"XZXX90";F;2014/01/01
+"4XX16";"Åpen kode 16";"XZXX90";F;2014/01/01
+"4XX17";"Åpen kode 17";"XZXX90";F;2014/01/01
+"4XX18";"Åpen kode 18";"XZXX90";F;2014/01/01
+"4XX19";"Åpen kode 19";"XZXX90";F;2014/01/01
+"4XX20";"Åpen kode 20";"XZXX90";F;2014/01/01
+"6BA02";"Behandling med legemiddel J06BA02 (humant normalt immunglobulin)";"ZXXX99";F;2014/01/01
+"7XX09";"Behandling med legemiddel N07XX09 (dimethyl fumarat)";"ZXXX00";F;2014/01/01
+"7XX10";"Behandling med legemiddel N07XX10 (laquinimod)";"ZXXX99";F;2014/01/01
+"9AB02";"Behandling med legemiddel M09AB02 (Kollagenase clostridium histolyticum)";"ZXXX99";F;2013/01/01
+"A0093";"Hjemmebasert peritonealdialyse";"KAXA22";F;2011/01/01
+"A0099";"Grupperettet pasientopplæring";"ZZZA10";F;2011/01/01
 "AAA00";"Eksplorativ kraniotomi";"AASA00";F;1999/01/01
 "AAA10";"Biopsi via kraniotomi";"AASA10";F;1999/01/01
 "AAA20";"Innlegging av intraventrikulær trykkmåler";"AASA20";F;1999/01/01
@@ -448,6 +477,7 @@
 "AXFX00";"Diagnostisk legemiddeltest";"AAF110";F;2008/01/01
 "AXFX02";"Kvalitativ test av luktesans etter standardisert skjema";"EXFB00";F;2013/01/01
 "AXFX09";"Kvantitative sensoriske tester IKA";"ACFB90";F;2008/01/01
+"AXGX00";"Hypnoterapi";"R4R140";F;2014/01/01
 "BAA00";"Biopsi av tyreoidea";"BASA00";F;2005/01/01
 "BAA05";"Eksplorasjon av tyreoidea";"BASA05";F;2005/01/01
 "BAA10";"Incisjon av tyreoidea";"BASA10";F;2005/01/01
@@ -1095,7 +1125,9 @@
 "EBB20";"Tanntransplantasjon";"EBSB20";F;1999/01/01
 "EBB40";"Ekstraradikulær rekonstruksjon av rotkanal";"EBSB40";F;2010/01/01
 "EBB99";"Annet rekonstruksjonsinngrep på tann";"EBSB99";F;1999/01/01
-"EBGC00";"Tilpasning av bittskinne";"SHXB00";F;2008/01/01
+"EBGC00";"Deleted 2013/12/31-Tilpasning av bittskinne";"SHXB00";F;2008/01/01
+"EBGC01";"Tilpasning av bittskinne mot tanngnissing (bruxisme)";"SHXB00";F;2014/01/01
+"EBGC02";"Tilpasning av apnéskinne";"SHXB00";F;2014/01/01
 "EBU00";"Fjerning av implantat eller eksternt fiksasjonsutstyr fra tann";"EBSU00";F;2005/01/01
 "EBW99";"Annen operasjon på tann";"EBSW99";F;1999/01/01
 "ECA00";"Frilegging av tann";"ECSA00";F;2005/01/01
@@ -1831,6 +1863,8 @@
 "FPGT05";"Kontroll, omprogrammering av to-kammer pacemaker/defibrillator";"FPFA00";F;2008/01/01
 "FPGT10";"Kontroll, omprogrammering av biventrikulær pacemaker/defibrillator";"FPFA00";F;2008/01/01
 "FPGT25";"Testing av implantert defibrillator med provokasjon av ventrikkelflimmer";"FPFA02";F;2008/01/01
+"FPGT30";"Kontroll av venstresidig kunstig hjertepumpe (LVAD)";"ZYZX90";F;2014/01/01
+"FPGT32";"Kontroll av høyresidig kunstig hjertepumpe (RVAD)";"ZYZX90";F;2014/01/01
 "FPGX00";"Rask atrie- eller ventrikkelstimulering ved implantert elektrode";"FPXX26";F;2008/01/01
 "FPGX05";"Rask atriestimulering ved transøsofageal elektrode";"FPXX26";F;2008/01/01
 "FPGX10";"Invasiv elektrofysiologisk behandling av arytmi med rask atrie/ventrikkelstimulering (";"FPXX26";F;2008/01/01
@@ -2147,6 +2181,7 @@
 "GXAV10";"Behandling med kontinuerlig positivt luftveistrykk";"WAA728";F;2008/01/01
 "GXAV20";"Behandling med bifasisk positivt luftveistrykk";"WAA722";F;2008/01/01
 "GXAV22";"Behandling med bifasisk positivt og negativt luftveistrykk";"WAA722";F;2008/01/01
+"GXAV23";"Høyfrekvent oscillatorventilasjon";"WAA732";F;2014/01/01
 "GXAV24";"Respiratorbehandling med høyfrekvensventilasjon";"WAA732";F;2008/01/01
 "GXAV25";"Behandling med spesielle inhalasjonsgasser";"WAA749";F;2008/01/01
 "GXAV28";"Manuell luftveisventilasjon";"WAA725";F;2008/01/01
@@ -2157,6 +2192,7 @@
 "GXFX10";"Langtidsregistrering av oksygenmetning";"GXF466";F;2008/01/01
 "GXFX15";"Transkutan oksymetri med CO2-måling i endetidevolum";"GXF461";F;2008/01/01
 "GXFX20";"Transkutan noninvasiv monitorering av pO2 og pCO2";"GXF460";F;2008/01/01
+"GXGX00";"Bukleiebehandling ved ARDS";"ZXXA30";F;2014/01/01
 "HAA00";"Incisjon av mamma";"HASA00";F;1999/01/01
 "HAA01";"Sutur av mamma";"HASA01";F;1999/01/01
 "HAA10";"Biopsi av mamma";"HASA10";F;1999/01/01
@@ -2237,8 +2273,8 @@
 "IBDD00";"Samtale med barn under 18 år om foreldres helsetilstand";"ZYZX86";F;2013/01/01
 "IBDE00";"Informasjon til og samarbeid med pårørende eller andre nærstående personer vedrørende en enkelt pasient";"ZYZX86";F;2013/01/01
 "IBEA00";"Psykosomatisk fysioterapi";"R4R110";F;2013/01/01
-"IBEB00";"Unilateral elektrodeplassering";"WZZ998";F;2013/01/01
-"IBEB10";"Bilateral elektrodeplassering";"WZZ998";F;2013/01/01
+"IBEB00";"Elektrokonvulsiv terapi (ECT) med unilateral elektrodeplassering";"AEX400";F;2013/01/01
+"IBEB10";"Elektrokonvulsiv terapi (ECT) med bilateral elektrodeplassering";"AEX400";F;2013/01/01
 "IBEC00";"Avrusning";"WHFB00";F;2013/01/01
 "ICAA00";"Evaluering av behandlingsplan";"ZYZX90";F;2013/01/01
 "IDAA00";"Ansvarsgruppemøte";"ZYZX90";F;2013/01/01
@@ -2732,7 +2768,7 @@
 "JHE96";"Annen operasjon på anal sfinkterprotese";"JHSE96";F;2001/01/01
 "JHFE20";"Elektromyografi (EMG) av analsfinkter";"JHFH20";F;2008/01/01
 "JHFM10";"Anorektal manometri";"JHFH10";F;2008/01/01
-"JHGX00";"Sakral nervestimulering ved inkontinens";"JHXA10";F;2008/01/01
+"JHGX00";"Sakral nevromodulering ved inkontinens";"JHXA10";F;2008/01/01
 "JHW96";"Annen operasjon på anus eller perianalt vev";"JHSW96";F;1999/01/01
 "JJA00";"Eksplorasjon av lever";"JJSA00";F;1999/01/01
 "JJA10";"Hepatotomi";"JJSA10";F;1999/01/01
@@ -4917,8 +4953,7 @@
 "NDN19";"Allotransplantasjon av bein til håndledd eller hånd";"NDSN90";F;1999/01/01
 "NDN29";"Xenotransplantasjon av bein til håndledd eller hånd";"NDSN90";F;1999/01/01
 "NDN39";"Transplantasjon av sene til håndledd eller hånd";"NDSN90";F;1999/01/01
-"NDN49";"Deleted 2013/09/25-Transplantasjon brusk/periost/fascie til håndledd eller hånd";"NDSN90";F;1999/01/01
-"NDN49";"Transplantasjon av brusk, periost eller fascie til håndledd eller hånd";"NDSN90";F;2005/01/01
+"NDN49";"Transplantasjon av brusk, periost eller fascie til håndledd eller hånd";"NDSN90";F;1999/01/01
 "NDN99";"Annen transplantasjon til håndledd eller hånd";"NDSN90";F;1999/01/01
 "NDP09";"Replantasjon av finger";"NDSP00";F;1999/01/01
 "NDP19";"Autotransplantasjon eller transposisjon av finger eller tå";"NDSP00";F;1999/01/01
@@ -6592,6 +6627,7 @@
 "PYFX15";"Registrering av arterielle pulsvolumkurver med pletysmografi II";"FXF107";F;2008/01/01
 "PYGC00";"Innlegging av sentralt venekateter";"PHXA38";F;2009/01/01
 "PYGC05";"Innlegging av tunnelert sentralt venekateter";"PHXA38";F;2008/01/01
+"PYGC07";"Innlegging av midline-kateter";"PHXA38";F;2014/01/01
 "PYGC10";"Perkutan plugging av punksjonshull i arterie med resorberbart materiale";"PXXA10";F;2009/01/01
 "QAA00";"Deleted 2010/12/31-Punksjon av hud på hode eller hals";"QASA00";F;1999/01/01
 "QAA10";"Incisjon i hud på hode eller hals";"QASA10";F;1999/01/01
@@ -7231,7 +7267,7 @@
 "WBGM60";"Subkutan implantasjon av legemiddel i fast form";"ZXXX13";F;2008/01/01
 "WBGM65";"Intrarektal administrasjon av legemiddel";"ZXXX01";F;2008/01/01
 "WBGM70";"Injeksjon av legemiddel i muskelfeste/fascie/senefeste/sene/fascie/bursa";"ZXXX98";F;2008/01/01
-"WBGM72";"Intraartikulær injeksjon av legemiddel";"ZXXX40";F;2012/01/01
+"WBGM72";"Deleted 2013/12/31-Intraartikulær injeksjon av legemiddel";"ZXXX40";F;2012/01/01
 "WBGM75";"Intraossøs injeksjon/infusjon av legemiddel";"ZXXX16";F;2010/01/01
 "WBOC05";"Intravenøs injeksjon/infusjon av cytostatika";"ZXXX20";F;2008/01/01
 "WBOC08";"Intravenøs injeksjon/infusjon av adjuvans til cytostatikabehandling";"ZXXX20";F;2008/01/01
@@ -7249,14 +7285,15 @@
 "WDAB09";"Opplivingstiltak på nyfødte IKA";"WAA900";F;2008/01/01
 "WDAB45";"Behandling med antisjokkbukse - MAST eller tilsvarende";"FWXX00";F;2008/01/01
 "WDAB50";"Intensivovervåking under transport";"WYX802";F;2008/01/01
-"WDAB55";"Ekstrakorporal membranoksygenering";"FZSD00";F;2008/01/01
+"WDAB55";"Deleted 2013/12/31-Ekstrakorporal membranoksygenering";"FZSD00";F;2008/01/01
 "WDAB80";"Lukket hjertekompresjon";"FXXA00";F;2008/01/01
 "WDAG09";"Generell anestesi INA";"WAA419";F;2008/01/01
 "WDAG20";"Generell anestesi med inhalasjonsmidler";"WAA400";F;2008/01/01
 "WDAG25";"Generell anestesi med intravenøse midler";"WAA404";F;2008/01/01
 "WDAG30";"Generell anestesi med inhalasjonsmidler og intravenøse midler";"WAA408";F;2008/01/01
-"WDAJ05";"Sedering under overvåking";"WAA002";F;2008/01/01
-"WDAJ10";"Våken sedering med injeksjonsmidler";"WAA002";F;2008/01/01
+"WDAJ05";"Deleted 2013/12/31-Sedering under overvåking";"WAA002";F;2008/01/01
+"WDAJ10";"Deleted 2013/12/31-Våken sedering med injeksjonsmidler";"WAA002";F;2008/01/01
+"WDAJ11";"Våken sedering";"WAA002";F;2014/01/01
 "WDAJ15";"Dyp sedering";"WAA002";F;2008/01/01
 "WDAL05";"Infiltrasjon for lokalanestesi";"WAA199";F;2008/01/01
 "WDAL06";"Ledningsanestesi IKA";"WAA290";F;2008/01/01
@@ -7347,6 +7384,8 @@
 "WEOB10";"Brakyterapi med pulset doserate (PDR)";"ZXO021";F;2008/01/01
 "WEOB15";"Brakyterapi med lav doserate (LDR)";"ZXO022";F;2008/01/01
 "WEOB20";"Brakyterapi, intravaskulær (IVBT)";"ZXO044";F;2008/01/01
+"WEOC00";"Protonterapi";"ZXO090";F;2014/01/01
+"WEOC10";"Karbonterapi";"ZXO090";F;2014/01/01
 "WGFX00";"Prikktest luftpanel";"WIFA00";F;2008/01/01
 "WGFX05";"Prikktest matpanel";"WIFA00";F;2008/01/01
 "WGFX10";"Prikktest - eget testmateriale fra hjemmemiljø eller arbeidsplass";"WIFA00";F;2008/01/01
@@ -7366,7 +7405,7 @@
 "WJFX10";"Indirekte kalorimetri";"WMFA00";F;2008/01/01
 "WJFX20";"Måling av hydreringsgrad ved bioimpedansspektroskopi";"XXFB00";F;2013/01/01
 "WJFX99";"Vurdering av ernæringsstatus IKA";"RDR130";F;2008/01/01
-"WL000";"Deleted 2013/12/31-Utstedelse av H-resept på legemiddel";"WRZA90";F;2009/01/01
+"WL000";"Utstedelse av H-resept på legemiddel";"WRZA90";F;2009/01/01
 "WLFX05";"Tuberkulintest";"WNFB00";F;2008/01/01
 "WLGP00";"Oppstart av kronisk oksygenbehandling i hjemmet";"WAA721";F;2008/01/01
 "WLGP20";"Hyperbar oksygenbehandling - tabell 5";"WAA727";F;2008/01/01
@@ -7719,7 +7758,7 @@
 "ZWAA10";"Utført av sykepleier";"ZZ2230";F;2013/01/01
 "ZWAA11";"Utført av ergoterapeut";"ZZAA00";F;2013/01/01
 "ZWAA12";"Utført av fysioterapeut";"ZZ3226";F;2013/01/01
-"ZWAA13";"Utført av ernæringsfysiolog";"ZZAA02";F;2013/01/01
+"ZWAA13";"Utført av klinisk ernæringsfysiolog";"ZZAA02";F;2013/01/01
 "ZWAA14";"Utført av pedagog";"ZZAA30";F;2013/01/01
 "ZWAA15";"Utført av barnevernspedagog";"ZZAA30";F;2013/01/01
 "ZWAA16";"Utført av idrettspedagog";"ZZAA30";F;2013/01/01
