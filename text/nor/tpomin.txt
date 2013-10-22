@@ -391,7 +391,7 @@
 "08S77";"Fracture surgery of ankle and foot";F;"0";T;F;"08";2003/09/11;"Jalan murtumakirurgia";F
 "08S78";"Major pelvic, hip or femur trauma procedure";T;"1";T;F;"";2013/04/28;"";T
 "08S79";"Limb reattachment in lower extremity";F;"1";T;F;"";2013/05/20;"Alaaajan takaisinistutusleikkaus";T
-"08S81";"Prosthetic replacement of joint of hip or pelvis";T;"1";T;F;"";1996/12/31;"Lonkan tai lantion proteesileikkaus";F
+"08S81";"Prosthetic replacement of joint of hip or pelvis";T;"1";T;F;"";1996/12/31;"Lonkan tai lantion proteesileikkaus";T
 "08S82";"Replacement of knee by prosthesis";T;"1";T;F;"";1996/12/31;"Polven keinonivelleikkaus";T
 "08S83";"Total replacemaent of ankle by prosthesis";T;"1";T;F;"";1996/12/31;"Nilkan totaali keinonivelleikkaus";T
 "08S84";"Reoperation on pelvic, knee or ankle prosthesis";F;"0";T;F;"";2000/11/20;"Lonkan, polven tai nilkan keinonivelen uusintaleikkaus";T
@@ -825,7 +825,7 @@
 "99S81";"Special cytostatic therapy";T;"0";T;F;"";2003/09/11;"Erityistason sytostaattihoito";T
 "99S82";"Demanding special cytostatic therapy";T;"0";T;F;"";/  /;"Vaativa erityistason sytostaaattihoito";F
 "99S89";"Simple cytostatic therapy";T;"0";T;F;"";/  /;"Yksinkertainen sytostaattihoito";T
-"99S90";"Extensive procedure - list created during the exporting process";T;" ";T;F;"";/  /;"";F
+"99S90";"Extensive procedure - list created during the exporting process";T;" ";T;F;"";/  /;"";T
 "99T00";"Complex medication, unspecified";F;"0";T;F;"";2012/01/26;"";T
 "99V02";"Major supporting procedure for dialysis";F;"0";T;F;"";/  /;"";F
 "99V20";"Outpatient visit";F;"0";T;F;"";/  /;"";T

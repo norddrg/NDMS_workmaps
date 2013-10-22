@@ -1027,7 +1027,7 @@
 "856N";"12";"Poliklinisk medikamentell behandling av svulst i mannlige kjønnsorganer";"Poliklinisk medikamentell behandling av svulst i mannlige kj";T;2013/05/15;"856N"
 "856O";"13";"Poliklinisk medikamentell behandling av svulst i kvinnelige kjønnsorganer";"Poliklinisk medikamentell behandling av svulst i kvinnelige";T;2013/05/15;"856O"
 "856R";"17";"Poliklinisk medikamentell behandling av kreft i bloddannende organer og lymfatisk vev";"Poliklinisk medikamentell behandling av kreft i bloddannende";T;2013/05/15;"856R"
-"856X";"40";"Poliklinisk medikamentell behandling av andre kreftformer";"Poliklinisk medikamentell behandling av andre kreftformer";F;2013/10/14;"856X"
+"856X";"40";"Poliklinisk medikamentell behandling av andre kreftformer";"Poliklinisk medikamentell behandling av andre kreftformer";T;2013/10/14;"856X"
 "862A";"23";"Poliklinisk kontakt for undersøkelser med henblikk på fysioterapi og gjenopptrening";"Outpatient physical assessment";F;2011/04/26;"862A"
 "862A";"23";"Dagrehabilitering, kompleks";"Dagrehabilitering, kompleks";F;2013/06/12;"862A"
 "862B";"23";"Poliklinisk kontakt for fysisk trening av motoriske funksjoner og yteevne";"Outpatient training and exercise";T;2013/06/13;"862B"

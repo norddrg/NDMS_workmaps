@@ -767,7 +767,7 @@
 "90O01";"Acute intensive care";F;"0";T;F;"";/  /;"";F
 "90O02";"Allergy test";F;"0";T;F;"";2007/11/13;"";F
 "90O03";"Hypebar oxygen therapy";F;"0";T;F;"";/  /;"";F
-"90O10";"Specific biological drug treatment";F;"0";T;F;"";2009/07/06;"";F
+"90O10";"Specific biological drug treatment";F;"0";T;F;"";2009/07/06;"";T
 "90S01";"Parenteral administration";F;"0";T;F;"";/  /;"";F
 "90S02";"Intravenous administration";F;"0";T;F;"";/  /;"";F
 "90S03";"Intravesical administraiton";F;"0";T;F;"";/  /;"";F
