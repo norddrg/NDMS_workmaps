@@ -101,7 +101,7 @@
 "03O07";"Demanding autiometry";F;"0";T;F;"";/  /;"";T
 "03O08";"Cochlear implant related interventions";F;"0";T;F;"";/  /;"";F
 "03O09";"Standard audiometry";F;"0";T;F;"";/  /;"";F
-"03O10";"Other tooth procedure";T;"0";T;F;"";/  /;"";F
+"03O10";"Other tooth procedure";T;"0";T;F;"";2013/10/21;"";F
 "03O11";"Complex diagnostic procedures for ENM problems";T;"0";T;F;"";2007/11/11;"";F
 "03O12";"Local diagnostic procedures for ENM problems";T;"0";T;F;"";/  /;"";F
 "03O13";"Major ENT procedures for children";T;"0";T;F;"";2013/10/14;"";F
@@ -781,12 +781,12 @@
 "90T06";"Radiotherapy with large shaped fields";F;"0";T;F;"";/  /;"";T
 "90T07";"Stereotactic radiotherapy or demanding isotope therapy";T;"0";T;F;"";/  /;"";F
 "90T08";"Special demanding isotope therapy";T;"0";T;F;"";/  /;"";F
-"90T10";"Planning for radiotherapy - complexity level 0";F;"0";T;F;"";2013/05/21;"";F
-"90T11";"Planning for radiotherapy - complexity level 0";T;"0";T;F;"";2013/10/10;"";F
-"90T12";"Planning for radiotherapy - complexity level 1";T;"0";T;F;"";2013/10/10;"";F
-"90T13";"Planning for radiotherapy - complexity level 2";T;"0";T;F;"";2013/10/10;"";F
-"90T14";"Planning for radiotherapy - complexity level 3";T;"0";T;F;"";2013/10/10;"";F
-"90T15";"Planning for radiotherapy - complexity level 4";T;"0";T;F;"";2013/10/10;"";F
+"90T10";"Planning for radiotherapy - complexity level 0";T;"0";T;F;"";2013/05/21;"";F
+"90T11";"Planning for radiotherapy - complexity level 1";T;"0";T;F;"";2013/10/24;"";F
+"90T12";"Planning for radiotherapy - complexity level 2";T;"0";T;F;"";2013/10/24;"";F
+"90T13";"Planning for radiotherapy - complexity level 3";T;"0";T;F;"";2013/10/24;"";F
+"90T14";"Planning for radiotherapy - complexity level 4";T;"0";T;F;"";2013/10/24;"";F
+"90T15";"Planning for radiotherapy - complexity level 4";F;"0";F;F;"";2013/10/24;"";T
 "90W00";"Medical doctor";F;"0";T;F;"";/  /;"Lääkäri";F
 "90W10";"Nurse";F;"0";T;F;"";/  /;"Hoitajakäynti";F
 "90W20";"Other special worker";F;"0";T;F;"";/  /;"Muu erityistyöntekijäkäynti";F

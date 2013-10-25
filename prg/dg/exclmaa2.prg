@@ -170,15 +170,12 @@ do WHILE lc_loop
 	endif
 	SELECT komplex
 	SEEK lc_oir+lc_eti+ SUBSTR(lc_cc,1,2)+SUBSTR(lc_cc,4,2)
-	IF lc_eti<>' ' AND NOT found()
+	if lc_eti<>' ' AND NOT found()
 		SEEK lc_oir + SPACE(6)+ SUBSTR(lc_cc,1,2)+SUBSTR(lc_cc,4,2)
-		IF NOT found()
+		if NOT found()
 			SEEK lc_eti + SPACE(6) + SUBSTR(lc_cc,1,2)+SUBSTR(lc_cc,4,2)
-		ENDIF 
-	ENDIF 
-    IF SUBSTR(komplex.compl,3,1)<>'C'
-	   replace komplex.compl WITH SUBSTR(komplex.compl,1,2)+'C'+SUBSTR(komplex.compl,4,2)
-	ENDIF 
+		endif
+	endif
 	?
 	? 'Select CC-category [Ctrl][W], remove CC-category [Esc], finish [Ctrl][K]'
 	on KEY label ctrl+K do exclclos

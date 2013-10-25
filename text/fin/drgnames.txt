@@ -2298,7 +2298,7 @@
 "917FG";"17";"Erilaistumaton syöpä, erityistason vaativa lääkehoito, lyhyt hoito";"Erilaistumaton syöpä, erit vaat lääkeh, lyh h";F;2006/05/29;"917G"
 "917FR";"17";"Pahanlaatuisen sairauden parenteraalinen sytostaattihoito";"Pahanlaatuisen sairauden parent sytost.hoito";F;2004/09/30;"917R"
 "917FS";"17";"Pahanlaatuisen sairauden vaativa parenteraalinen sytostaattihoito";"Pahanlaatuisen sair vaat parent sytost.hoito";F;2004/09/30;"917S"
-"917FT";"17";"Pahanlaatuisen sairauden erityistason sytostaattihoito";"Pahanlaatuisen sair erityistason sytost.hoit";F;2004/09/30;"917T"
+"917FT";"17";"Pahanlaatuisen sairauden erityistason sytostaattihoito";"Pahanlaatuisen sair erityistason sytost.hoit";F;2013/10/23;"917T"
 "917FU";"17";"Malignin sairauden lyhyt sädehoito";"Malignin sairauden lyhyt sädehoito";T;2004/09/07;"917U"
 "917FV";"17";"Sädehoidon annossuunnittelu magneettitutkimuksella";"Sädehoidon annossuunnittelu magneettitutkimuk";T;2004/09/30;"917V"
 "917FW";"17";"Sädehoidon vaativa annossuunnittelu magneettitutkimuksella";"Sädehoidon vaativa annossuunnittelu magneetti";T;2004/09/30;"917W"
