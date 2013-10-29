@@ -1,4 +1,4 @@
-"1BA01";"Behandling med legemiddel S01BA01 (Deksametason)";"1BA01";F;2013/01/01
+"1BA01";"Behandling med legemiddel S01BA01 (Deksametason) - Test change for documentation purposes";"1BA01";F;2013/01/01
 "A01AA";"Caries prophylactic agents";"A01AA";F;2013/09/27
 "A01AB";"Antiinfectives and antiseptics for local oral treatment";"A01AB";F;2013/09/27
 "A01AC";"Corticosteroids for local oral treatment";"A01AC";F;2013/09/27
