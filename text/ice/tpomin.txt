@@ -782,11 +782,11 @@
 "90T07";"Stereotactic radiotherapy or demanding isotope therapy";F;"0";T;F;"";/  /;"";F
 "90T08";"Special demanding isotope therapy";F;"0";T;F;"";/  /;"";F
 "90T10";"Planning for radiotherapy - complexity level 0";F;"0";T;F;"";2013/05/21;"";F
-"90T11";"Planning for radiotherapy - complexity level 0";F;"0";T;F;"";2013/10/10;"";F
-"90T12";"Planning for radiotherapy - complexity level 1";F;"0";T;F;"";2013/10/10;"";F
-"90T13";"Planning for radiotherapy - complexity level 2";F;"0";T;F;"";2013/10/10;"";T
-"90T14";"Planning for radiotherapy - complexity level 3";F;"0";T;F;"";2013/10/10;"";F
-"90T15";"Planning for radiotherapy - complexity level 4";F;"0";T;F;"";2013/10/10;"";T
+"90T11";"Planning for radiotherapy - complexity level 1";F;"0";T;F;"";2013/10/24;"";F
+"90T12";"Planning for radiotherapy - complexity level 2";F;"0";T;F;"";2013/10/24;"";F
+"90T13";"Planning for radiotherapy - complexity level 3";F;"0";T;F;"";2013/10/24;"";T
+"90T14";"Planning for radiotherapy - complexity level 4";F;"0";T;F;"";2013/10/24;"";F
+"90T15";"Planning for radiotherapy - complexity level 4";F;"0";F;F;"";2013/10/24;"";T
 "90W00";"Medical doctor";F;"0";T;F;"";/  /;"Lääkäri";F
 "90W10";"Nurse";F;"0";T;F;"";/  /;"Hoitajakäynti";F
 "90W20";"Other special worker";F;"0";T;F;"";/  /;"Muu erityistyöntekijäkäynti";F

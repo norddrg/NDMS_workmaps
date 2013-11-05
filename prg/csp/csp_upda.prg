@@ -47,13 +47,14 @@ lc_csp=dbf()
 USE
 DO CASE 
 CASE p_kieli='Fin' 
-  use c:\data\atc
-  set filter to usedate<date()+365 and (reldate>date()+365 or reldate=ctod(space(8))) AND LEN(TRIM(atc))>5
-  GOTO TOP 
-  do while not eof()
- 	INSERT INTO (lc_csp) (code, ncsp, text, released, tehty, usedate) VALUES (substr(atc.atc,3,5), substr(atc.atc,1,5), atc.atc+' - '+atc.finish, .f., .t.,date())
-	skip
-  enddo
+*  use c:\data\atc
+*  set filter to usedate<date()+365 and (reldate>date()+365 or reldate=ctod(space(8))) AND LEN(TRIM(atc))>5
+*  GOTO TOP 
+*  do while not eof()
+* 	INSERT INTO (lc_csp) (code, ncsp, text, released, tehty, usedate) VALUES (substr(atc.atc,3,5), substr(atc.atc,1,5), atc.atc+' - '+atc.finish, .f., .t.,date())
+*	skip
+*  enddo
+  USE (lc_csp)
 CASE p_kieli='Nor' 
   USE (lc_csp)
 OTHERWISE 
