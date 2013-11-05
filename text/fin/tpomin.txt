@@ -673,7 +673,7 @@
 "21E19";"Endoscopy of female genital tract for trauma";F;"0";T;F;"21";2002/01/21;"";T
 "21E20";"Insertion of respiratory tract stent for trauma";F;"0";T;F;"";/  /;"Stentin asettamienen hengitysteihin vamman takia";F
 "21S01";"Debridement procedure in traumatic wound";F;"0";T;F;"";2006/04/25;"Vamman aiheuttaman haavan tai haavauman revisio";T
-"21S02";"Skin graft procedure for injuries";T;"0";T;F;"";1996/12/31;"Ihon siirto vamman hoidossa, ei palovamma";T
+"21S02";"Skin graft procedure for injuries";T;"0";T;F;"";1996/12/31;"Ihon siirto vamman hoidossa, ei palovamma";F
 "21S03";"Hand procedure for injuries";T;"0";T;F;"";1996/12/31;"Käden leikkaus, vamma";F
 "21S04";"Craniotomy for trauma";T;"0";T;F;"";1996/12/31;"Kraniotomia vamman hoidossa";T
 "21S05";"Limb reattachment or hip or femur procedure for trauma";T;"0";T;F;"";1996/12/31;"Raajan takaisinistutus tai lonkan tai reiden leikkaus vamman hoidossa";F

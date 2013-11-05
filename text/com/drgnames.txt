@@ -2429,4 +2429,4 @@
 "980O";"30";"Breast problem, short nursing therapy";"Breast problem, sh nurs th";F;2004/08/18;"980O"
 "980V";"23";"Nursing contact in group or group with team of care providors";"Nursing contact in group or group with team of care providor";F;2007/09/05;"980O"
 "998NO";"99";"Group therapy";"Group therapy";F;2007/11/13;"998O"
-"999O";"99";"Indirect contact or contact w/o diagnosis, short therapy";"Short therapy w/o diagnosis";T;2004/09/21;"999O"
+"999O";"99";"Indirect contact or contact w/o diagnosis, short therapy";"Short therapy w/o diagnosis";T;2013/10/31;"999O"
